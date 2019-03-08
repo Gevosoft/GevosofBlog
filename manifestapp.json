@@ -1,0 +1,17 @@
+{
+  "name": "Gevosoft",
+  "short_name": "Gevosoft",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1f1f1f",
+  "dir": "rtl",
+  "lang": "en-US",
+  "orientation": "portrait-primary"
+  "theme_color": "#1f1f1f"
+  "description": "Technology Development",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+}
