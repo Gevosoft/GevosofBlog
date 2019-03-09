@@ -12,9 +12,9 @@ tags:
 ## We have some exciting news
 
 ### 1.) Gevosoft
-First of all Gevosoft finally has a proper <b>.com</b> domain! This also means that we now have the contact email [mailto:contact@gevosoft.com](contact@gevosoft.com) which is really exciting!
+First of all Gevosoft finally has a proper <b>.com</b> domain! This also means that we now have the contact email [contact@gevosoft.com](mailto:contact@gevosoft.com) which is really exciting!
 
-You can visit our main website on [https://gevosoft.com](gevosoft.com) and our blog on [https://blog.gevosof.com](blog.gevosoft.com).
+You can visit our main website on [gevosoft.com](https://gevosoft.com) and our blog on [blog.gevosoft.com](https://blog.gevosof.com).
 
 And talking about websites we have a redesigned main website and a redesigned blog!
 
@@ -27,7 +27,7 @@ We have updated:
 * The screenshots
 
 We also pushed out version 16.1 which includes an awesome sync feature! Yes, we improved on the old backup feature and made a Multi-Device sync feature that backups & syncs all of your data (logs, pages, notes, tasks) securely and in the background.
-You can read more about the sync feature [https://bulletjournal.ml/sync](here!)
+You can read more about the sync feature [here!](https://bulletjournal.ml/sync)
 
 ### To Summarize
 * We now own gevosoft.com
