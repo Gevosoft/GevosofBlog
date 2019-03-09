@@ -14,7 +14,7 @@ tags:
 ### 1.) Gevosoft
 First of all Gevosoft finally has a proper <b>.com</b> domain! This also means that we now have the contact email [contact@gevosoft.com](mailto:contact@gevosoft.com) which is really exciting!
 
-You can visit our main website on [gevosoft.com](https://gevosoft.com) and our blog on [blog.gevosoft.com](https://blog.gevosof.com).
+You can visit our main website on [gevosoft.com](https://gevosoft.com) and our blog on [blog.gevosoft.com](https://blog.gevosoft.com).
 
 And talking about websites we have a redesigned main website and a redesigned blog!
 
