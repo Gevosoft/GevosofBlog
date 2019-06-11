@@ -47,3 +47,4 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+future: true
