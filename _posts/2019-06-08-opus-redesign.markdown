@@ -4,6 +4,7 @@ title: Opus Redesign
 date:   2019-06-08 16:42:00 +0200
 categories: news gevosoft opus
 comments: true
+published: true
 tags:
 - news
 - gevosoft
