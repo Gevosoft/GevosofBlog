@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redesigned Opus App!
+title: Opus Redesign
 date:   2019-06-08 16:42:00 +0200
 categories: news gevosoft opus
 comments: true
