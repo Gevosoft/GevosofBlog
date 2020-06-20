@@ -18,8 +18,8 @@ You can visit our main website on [gevosoft.com](https://gevosoft.com) and our b
 
 And talking about websites we have a redesigned main website and a redesigned blog!
 
-### 2.) The Bullet Journal Companion
-We have redesigned almost everything related to the Bullet Journal Companion app.
+### 2.) The Journal Companion
+We have redesigned almost everything related to the Journal Companion app.
 We have updated:
 * The app
 * The website
@@ -27,13 +27,13 @@ We have updated:
 * The screenshots
 
 We also pushed out version 16.1 which includes an awesome sync feature! Yes, we improved on the old backup feature and made a Multi-Device sync feature that backups & syncs all of your data (logs, pages, notes, tasks) securely and in the background.
-You can read more about the sync feature [here!](https://bulletjournal.ml/sync)
+You can read more about the sync feature [here!](https://journal-companion.gevosoft.com/sync)
 
-### To Summarize
+### To Summarize (TL;DR)
 * We now own gevosoft.com
 * We updated our main website (gevosoft.com)
 * We launched a blog (blog.gevosoft.com)
-* We redesigned the Bullet Journal Companion App, Website and Store Listing.
-* We released a Multi-Device sync feature to the Bullet Journal Companion.
+* We redesigned the Journal Companion App, Website and Store Listing.
+* We released a Multi-Device sync feature to the Journal Companion.
 
 Thank you so much for using our products and we hope 2019 is going to be an amazing year for all of us!
